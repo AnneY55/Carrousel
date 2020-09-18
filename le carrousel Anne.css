@@ -1,0 +1,27 @@
+body{
+	/*display:flex;*/
+	/*flex-direction: column;*/
+}
+
+#carrousel{
+	
+	margin: 20px;
+	text-align: center;
+    
+   /* display :inline-block;*/
+    }
+
+#carrousel img{
+
+	width :250px;
+	height: auto;
+	margin: auto;
+	}
+
+#button{
+	text-align: center;
+}
+h1{
+text-align: center;	
+}
+
